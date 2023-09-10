@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="profile">
-    <h1>About Me:</h1>
+    <h2>About Me:</h2>
     <p>I'm a BCA student, i am exploring tech and learning in public.</p>
   </div>
 
