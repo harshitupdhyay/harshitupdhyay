@@ -13,7 +13,7 @@
   </div>
 
   <div class="connect">
-    <h2>Connect with Me:</h2>
+    <h3>Connect with Me:</h3>
     <p>
       <a href="https://twitter.com/harshitupdhyay" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
@@ -28,7 +28,7 @@
   </div>
 
   <div class="tech-stack:">
-    <h2>Tech Stacks:</h2>
+    <h3>Tech Stacks:</h3>
     <p>
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
       <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
