@@ -4,19 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-   
-    .profile {
-      text-align: center;
-      padding: 20px;
-    }
-    .connect {
-      margin-top: 20px;
-    }
-    .tech-stacks {
-      margin-top: 20px;
-    }
-  </style>
+  
 </head>
 <body>
   <div class="profile">
