@@ -9,7 +9,7 @@
 <body>
   <div class="profile">
     <h2>About Me:</h2>
-    <p>I'm a BCA student, i am exploring tech and learning in public.</p>
+    <p>BCA student | Exploring tech | learning in public</p>
   </div>
 
   <div class="connect">
